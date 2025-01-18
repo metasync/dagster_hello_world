@@ -5,4 +5,7 @@
     * Basic assets definitions
     * Basic test cases
 
+## [0.1.1] (2025-01-18)
 
+  * Supported docker deployment
+  * Fixed minor root module issues
