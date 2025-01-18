@@ -1,5 +1,5 @@
 from dagster import Definitions
-from .assets.hello import hello
-from .assets.world import world
+from dagster_hello_world.assets.hello import hello
+from dagster_hello_world.assets.world import world
 
 defs = Definitions(assets=[hello, world])

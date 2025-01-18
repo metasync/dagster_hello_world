@@ -1,5 +1,5 @@
 from dagster import asset, AssetExecutionContext
-from .hello import hello
+from dagster_hello_world.assets.hello import hello
 
 @asset(deps=[hello])
 def world(context: AssetExecutionContext):
