@@ -1,0 +1,23 @@
+# Python-generated files
+**/__pycache__/
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Dagster-generated files
+/tmp*/
+
+# pytest-generated files
+.pytest_cache
+
+# ruff-generated files
+.ruff_cache
+
+# other files
+**/.cache
+.git
+deploy
