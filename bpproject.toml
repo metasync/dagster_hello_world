@@ -6,7 +6,7 @@ schema-version = "0.2"
 
 exclude = [
   # git-generated files
-  ".git",
+  ".git/",
   # Python-generated files
   "__pycache__/",
   "*.py[oc]",
