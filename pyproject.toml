@@ -1,6 +1,6 @@
 [project]
 name = "dagster-hello-world"
-version = "0.1.0"
+version = "0.1.2"
 description = "simple sample for Dagster"
 readme = "README.md"
 authors = [
