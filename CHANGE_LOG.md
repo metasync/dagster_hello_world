@@ -1,7 +1,9 @@
-## [0.1.2] (2025-02-05)
+## [0.1.2] (2025-02-24)
 
   * Added project descriptor to support integration with Buildpacks
   * Updated Dagster to 1.10.1
+  * Applied the updated Schematic Builder Base
+  * Added make script for image operations
 
 ## [0.1.1] (2025-01-18)
 
