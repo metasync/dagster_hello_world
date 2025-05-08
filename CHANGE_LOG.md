@@ -1,3 +1,9 @@
+## [0.1.3] (2025-05-08)
+
+  * Upgraded Dagster version from 1.10.1 to 1.10.13
+  * Added support for native TLS in projecct configuration
+  * Added support for devpi in project configuration
+
 ## [0.1.2] (2025-02-24)
 
   * Added project descriptor to support integration with Buildpacks
